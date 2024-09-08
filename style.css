@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+  text-align: center;
+  font-size: 3rem;
+  background-color: rgb(36, 32, 32);
+  color: snow;
+  padding: 30px;  
+}
+.bod{
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.heading{
+    margin-top: 20px;
+}
+.para{
+    padding: 20px;
+}
+.skill{
+    text-align: left;
+}
